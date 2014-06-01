@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            lleii
+description:      my notebook
 logo:
 #logo:             site-logo.png
 disqus_shortname:  lleii
@@ -11,12 +11,12 @@ url:              http://lleii.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           lleii
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        a@Z.x
-  facebook:       a@Z.x
+  twitter:        
+  facebook:       
   github:
   stackexchange:
   linkedin:
@@ -39,11 +39,13 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Tags
+    url: /tags/
+#  - title: Theme Setup
+#    url: /theme-setup/
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #timezone:    America/New_York
