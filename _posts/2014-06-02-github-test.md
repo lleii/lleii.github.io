@@ -5,8 +5,8 @@ description: "Just about everything you'll need to style in the theme: headings,
 modified: 2014-05-30
 category: articles
 tags: [sample post]
-comments: true
-share: true
+comments: false
+share: false
 ---
 
 # Strikethrough
