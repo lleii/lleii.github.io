@@ -9,7 +9,7 @@ comments: false
 share: false
 ---
 
-# Strikethrough
+
 
 
 ```ruby
