@@ -37,12 +37,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
   - title: Articles
     url: /articles/
   - title: Tags
     url: /tags/
+  - title: About
+    url: /about/
 #  - title: Theme Setup
 #    url: /theme-setup/
 #  - title: Made Mistakes
