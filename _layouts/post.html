@@ -56,7 +56,7 @@
 		  {% else %}
 		    {% if site.ds_shortname %}
 		      <!-- <div class="ds_thread"></div> -->
-		      <div class="ds-thread" data-thread-key="test" data-title="test" data-url="test"></div> 
+		      <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="{{ site.url }}{{ page.url }}"></div> 
 			{% endif %} 
 		  {% endif %} 
 		{% endif %} 
