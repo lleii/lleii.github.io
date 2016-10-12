@@ -1,0 +1,16 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+
+# example of config.toml
+[params]
+  highlightStyle = "github"
+
+[[params.mainMenu]]
+  name = "Usage"
+  link = "usage"
+
+[[params.mainMenu]]
+  name = "News"
+  link = "categories/news"
